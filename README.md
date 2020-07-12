@@ -3,6 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igventurelli/)](https://www.linkedin.com/in/igventurelli/)
 [![Stackoverflow](https://img.shields.io/badge/-StackOverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/5963/igventurelli)](https://pt.stackoverflow.com/users/5963/igventurelli)
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@igventurelli)](https://medium.com/@igventurelli)
+[![Twitch](https://img.shields.io/badge/-Twitch-6441a5?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/igventurelli)](https://www.twitch.tv/igventurelli)
 [![YouTube](https://img.shields.io/badge/-YouTube-c14438?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCHAvXiomV978D9bnAmcHRng)](https://www.youtube.com/channel/UCHAvXiomV978D9bnAmcHRng)
 
 ## e aí, amiguinho(a)!
