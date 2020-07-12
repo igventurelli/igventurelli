@@ -5,7 +5,7 @@
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@igventurelli)](https://medium.com/@igventurelli)
 [![YouTube](https://img.shields.io/badge/-YouTube-c14438?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCHAvXiomV978D9bnAmcHRng)](https://www.youtube.com/channel/UCHAvXiomV978D9bnAmcHRng)
 
-## e aí, fera! 🤙
+## e aí, amiguinho(a)!
 
 eu me chamo Igor Venturelli (`@igventurelli`) e sou um desenvolvedor de software 😊  
 programo por profissão e diversão | mexo com eletrônica por pura diversão 🤖
