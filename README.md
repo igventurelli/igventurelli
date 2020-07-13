@@ -18,5 +18,6 @@ programo por profissão e diversão | mexo com eletrônica por pura diversão �
 
 ## side projects
 
-- atualmente estou trabalhando numa lib chamada [Pipe4j](https://github.com/igventurelli/pipe4j) que fornece uma forma mais funcional/sequencial de escrever código Java resiliente
+- atualmente estou trabalhando num projeto chamado [Stream Ino](https://github.com/igventurelli/stream-ino), que é uma plataforma para criação de stream decks com Arduino
+- trabalhei numa lib chamada [Pipe4j](https://github.com/igventurelli/pipe4j) que fornece uma forma mais funcional/sequencial de escrever código Java resiliente
 - em eletrônica, eu acabei de terminar um carrinho de controle remoto, controlado por um controle de PS4, que chamei de [Formula Ino](https://github.com/igventurelli/formula-ino). inclusive, eu fiz um vídeo sobre ele! tá no YouTube. [dá uma olhada!](https://www.youtube.com/watch?v=Anw2yGXAxic)
